@@ -1,17 +1,21 @@
-# Atelier Recharge
+# Sélance Électronique
 
-Site pédagogique non officiel pour préparer un jeu de rôle d’entretien autour de l’activité d’IES Synergy à Saint-Aunès.
+Site d’entreprise entièrement fictive pour un jeu de rôle de recrutement.
 
-Le contenu factuel est reformulé à partir de sources publiques, citées dans les pages, consultées le 11 novembre 2026. L’offre présentée est entièrement simulée. Le site est indépendant d’IES Synergy et n’annonce aucun recrutement.
+Le scénario comprend une identité visuelle originale, une histoire, des produits, des réalisations, une équipe, des coordonnées inventées et une offre détaillée de technicien électronique.
 
-Le carnet conserve les notes uniquement dans le navigateur du visiteur, si son stockage est disponible. Il peut exporter ses notes en texte. Aucune donnée de candidature n’est envoyée.
+Toutes les personnes et les données d’entreprise sont fictives. Les adresses électroniques utilisent le domaine réservé `.example`. Le site n’annonce aucun recrutement réel et ne reçoit aucune candidature.
 
-Ce dépôt contient uniquement les pages destinées au candidat. Les CV, portfolios personnels et supports du recruteur sont exclus.
+Le carnet conserve les notes uniquement dans le navigateur du visiteur et permet leur export en texte. Le dépôt ne contient ni CV, ni portfolio personnel, ni corrigé du recruteur.
 
-## Consulter
+## Site
 
-Ouvrir `index.html` dans un navigateur, ou consulter le site déployé sur GitHub Pages.
+https://jo13310.github.io/atelier-recharge/
 
 ## Hébergement
 
-GitHub Pages : branche `main`, dossier `/` (racine). Aucune compilation nécessaire.
+GitHub Pages, branche `main`, dossier racine. Site HTML/CSS/JS sans compilation.
+
+## Version
+
+Scénario daté du 11 novembre 2026.
