@@ -6,7 +6,7 @@ Le scénario comprend une identité visuelle originale, une histoire, des produi
 
 Toutes les personnes et les données d’entreprise sont fictives. Les adresses électroniques utilisent le domaine réservé `.example`. Le site n’annonce aucun recrutement réel et ne reçoit aucune candidature.
 
-Le carnet conserve les notes uniquement dans le navigateur du visiteur et permet leur export en texte. Le dépôt ne contient ni CV, ni portfolio personnel, ni corrigé du recruteur.
+Le site public est une vitrine professionnelle : entreprise, produits, réalisations, équipe, actualités, recrutement et contact. Il ne contient aucun outil de prise de notes, aucune aide de préparation, aucun CV ni corrigé du recruteur.
 
 ## Site
 
